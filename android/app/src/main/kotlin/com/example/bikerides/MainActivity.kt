@@ -1,0 +1,6 @@
+package com.example.bikerides
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
